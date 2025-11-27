@@ -1,12 +1,5 @@
 // Write a program to print a histogram of the lengths of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging
 
-/*
-1 - *
-2 - **
-3 - 
-4 - **** ocrrencias
-*/
-
 #include <stdio.h>
 #define MAXLINE 1000
 
@@ -44,6 +37,4 @@ void histogram(int len){
     }
 }
 
-x x+1 x+2
-
-19-13-2=4
+// i'll redo it soon
